@@ -9,7 +9,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 - Aplicando fontes customizadas;
 - Espaçamentos.
 
-[image (1)](https://github.com/GregoriCabral/nlw-spacetime/assets/78220509/3c36f1cf-b26e-441c-8184-708593a58c23)
+![image](https://github.com/GregoriCabral/nlw-spacetime/assets/78220509/3c36f1cf-b26e-441c-8184-708593a58c23)
 
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através 
